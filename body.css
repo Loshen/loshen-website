@@ -1,0 +1,18 @@
+p {
+    margin: 0;
+    font-family:monospace;
+    color: #222323;
+}
+
+body {
+    margin: 0;
+    padding-bottom: 1000px;
+    padding-top: 95px;
+    background-color: #f0f6f0;
+}
+
+@media screen and (max-width: 600px) {
+    body {
+        padding-top: 80px;
+    }
+}
